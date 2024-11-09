@@ -5,10 +5,10 @@
 2. [Modène](./modene_class.md) [🇮🇹](https://www.unimore.it/)
 3. [Chung-Ang University](./chungang_class.md) [🇰🇷](https://neweng.cau.ac.kr/engneweng/)
 4. [Hogeschool Zeeland University of Applied Sciences](./hoge_class.md) [🇳🇱](https://hz.nl/en)
-5.  [Soongsil University](./soongsil_class.md) [🇰🇷](https://www.ssu.ac.kr/)
-6. [McGill](./mcgill_class.md) [🇨🇦](https://www.mcgill.ca/continuingstudies/areas-study/scs-certificate-management) *Condition :  TOEFL iBT 90 (no lower than 21 on each section) IELTS 6.5 (no lower than 6 in each section) Duolingo 115*
+5. [Soongsil University](./soongsil_class.md) [🇰🇷](https://www.ssu.ac.kr/)
+6. [McGill](./mcgill_class.md) [🇨🇦](https://www.mcgill.ca/continuingstudies/areas-study/scs-certificate-management) *Condition : TOEFL iBT 90 (no lower than 21 on each section), IELTS 6.5 (no lower than 6 in each section), Duolingo 115*
 7. [Dublin City University](./dublin_class.md) [🇮🇪](https://www.dcu.ie/)
-8. [Binus University](./binus_class.md) [🇮🇩](https://www.binus.ac.id/) *Condition : 2.6 GPA* 
+8. [Binus University](./binus_class.md) [🇮🇩](https://www.binus.ac.id/) *Condition : 2.6 GPA*
 
 ---
 
