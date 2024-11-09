@@ -7,9 +7,8 @@
 Ideas :
 - La Haye
 - Enshede
-- Seoul (uni ?)
-- Montréal
-- ?
+- Seoul
+- Condordia Montréal (bof les cours) ❌
 - ?
 
 **Ressources** : <br />
