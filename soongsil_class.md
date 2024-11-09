@@ -1,4 +1,6 @@
-⬅️ *[ Back to Uni Ideas](./README.md)*# TEK4 course at Soongsil University
+⬅️ *[ Back to Uni Ideas](./README.md)*
+
+# TEK4 course at Soongsil University
 
 **Objective**: 15 (local) ECTS / semester, 30 (local) ECTS / year <br />
 **Year cost** : 0 €  
@@ -28,4 +30,5 @@
 | **Total**     |                                               | **54**  |
 
 ---
+
 ⬅️ *[ Back to Uni Ideas](./README.md)*

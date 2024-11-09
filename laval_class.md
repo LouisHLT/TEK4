@@ -1,4 +1,6 @@
-⬅️ *[ Back to Uni Ideas](./README.md)*# TEK4 courses at Laval University
+⬅️ *[ Back to Uni Ideas](./README.md)*
+
+# TEK4 courses at Laval University
 
 **Objective**: 24 local credits = 60 ECTS <br />
 **Year cost** : 1 750€  
@@ -120,4 +122,7 @@
     - **Crédits :** 3
 
 **Total credits**: `8*3 = 24`<br />
+
+---
+
 ⬅️ *[ Back to Uni Ideas](./README.md)*

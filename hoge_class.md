@@ -1,4 +1,6 @@
-⬅️ *[ Back to Uni Ideas](./README.md)*# TEK4 course at Hogeschool Zeeland University of Applied Sciences
+⬅️ *[ Back to Uni Ideas](./README.md)*
+
+# TEK4 course at Hogeschool Zeeland University of Applied Sciences
 
 **Objective**: 30 ECTS / semester, 60 ECTS / in <br />
 **Year cost** : 0 €  
@@ -17,4 +19,5 @@
 
 
 ---
+
 ⬅️ *[ Back to Uni Ideas](./README.md)*

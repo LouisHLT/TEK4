@@ -1,4 +1,6 @@
-⬅️ *[ Back to Uni Ideas](./README.md)*# TEK4 course at the University of Modena (UNIMORE)
+⬅️ *[ Back to Uni Ideas](./README.md)*
+
+# TEK4 course at the University of Modena (UNIMORE)
 
 **Objective**: 30 ECTS / semester, 60 ECTS / in <br />
 **Year cost** : 0 €  
@@ -18,6 +20,8 @@
 ## Track 2 : [20-273] ARTIFICIAL INTELLIGENCE ENGINEERING (D.M.270/04) Option 2
 [Class List](https://unimore.coursecatalogue.cineca.it/corsi/2023/10861/insegnamenti/10000?schemaid=20865)
 
+### **Chosen classes :**
+
 | Code     | Class                                                              | Interest |
 |----------|--------------------------------------------------------------------|------|
 | [AIE-007]| Computer Vision and Cognitive Systems (REQUIRED)                   |  /   |
@@ -32,4 +36,5 @@
 **Total credits** : `9*7 = 63 credits` 
 
 ---
+
 ⬅️ *[ Back to Uni Ideas](./README.md)*

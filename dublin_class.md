@@ -3,7 +3,7 @@
 # TEK4 course at Dublin City University
 
 **Objective**: 30 (local) ECTS / semester, 60 (local) ECTS / year <br />
-**Year cost** : 0 €  
+**Year cost** : 1600 €  
 
 ## Courses in Bachelor of Science in Engineering
 
@@ -125,4 +125,5 @@
 | CA702[1]   | Web Design & Development                          |
 
 ---
+
 ⬅️ *[ Back to Uni Ideas](./README.md)*
