@@ -2,14 +2,22 @@
 
 1. [Laval](./laval_class.md) 
 2. [Modène](./modene_class.md)
+3.
+4.
+5. 
+6.
+7.
+8.
 
+- ? [McGill](./mcgill_class.md)
+- ? [Hogeschool Zeeland University of Applied Sciences](./hoge_class.md)
 
 Ideas :
 - La Haye
 - Enshede
 - Seoul
 - Condordia Montréal (bof les cours) ❌
-- ?
+- Rimouski é Rimouski = refaire epitech en plus dure et plus approfondie ❌
 
 **Ressources** : <br />
 - [Cost of living comparison](https://www.numbeo.com/cost-of-living/)
