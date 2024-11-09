@@ -1,4 +1,4 @@
-*[back](./list_unis.md)*
+*[back](./README.md)*
 # Cours TEK4 à l'Université Modène (UNIMORE)
 
 **Objectif** : 30ECTS / semestre, 60ECTS / an <br />
@@ -29,9 +29,8 @@
 | [AIE-008]| MULTIMEDIA DATA PROCESSING                                         |  /   |
 | [AIE-012]| REAL-TIME EMBEDDED SYSTEMS                                         |  /   |
 
-9 credits per module.
-<br />
+9 credits per module.<br />
 **Total credits** : `9*7 = 63 credits` 
 
 ---
-*[back](./list_unis.md)*
+*[back](./README.md)*

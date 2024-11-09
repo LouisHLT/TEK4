@@ -1,4 +1,4 @@
-*[back](./list_unis.md)*
+*[back](./README.md)*
 # Cours TEK4 à l'Université Laval
 
 **Objectif** : 24 locals crédits = 60 ECTS <br />
@@ -120,6 +120,5 @@
         | **Classe virtuelle synchrone** | 17 juin 2024  | Lundi   | 14h à 16h50    | -                | -     |
     - **Crédits :** 3
 
-**Total crédits** : `8*3 = 24`
-<br />
-*[back](./list_unis.md)*
+**Total crédits** : `8*3 = 24`<br />
+*[back](./README.md)*
