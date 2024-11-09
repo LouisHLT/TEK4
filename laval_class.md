@@ -1,7 +1,6 @@
-*[back](./README.md)*
-# Cours TEK4 à l'Université Laval
+⬅️ *[ Back to Uni Ideas](./README.md)*# TEK4 courses at Laval University
 
-**Objectif** : 24 locals crédits = 60 ECTS <br />
+**Objective**: 24 local credits = 60 ECTS <br />
 **Year cost** : 1 750€  
 
 ## IFT (Informatique)
@@ -33,17 +32,17 @@
 
 ---
 
-### 1er Semestre -- Automne 2025
+### 1st Semester -- Fall 2025
 
 - **GLO-4001 - Introduction à la robotique mobile**
-    - **Session :** Automne 2025
-    - **Dates :** 3 septembre 2025 - 13 décembre 2025
-    - **Horaire :** Jeudi MATIN, 9h30 - 12h30
+    - **Session:** Fall 2025
+    - **Dates:** September 3, 2025 - December 13, 2025
+    - **Time:** Thursday MORNING, 9:30 a.m. - 12:30 p.m.
     - **Crédits :** 3
 - **IFT-4902 - Programmation avec R pour l'analyse de données**
-    - **Session :** Automne 2025
-    - **Dates :** 3 septembre 2025 - 13 décembre 2025
-    - **Horaire :** Mercredi - Vendredi APRES-MIDI
+    - **Session:** Fall 2025
+    - **Dates:** September 3, 2025 - December 13, 2025
+    - **Schedule:** Wednesday - Friday AFTERNOON
         | Type                 | Date           | Jour      | Horaire          | Pavillon         | Salle |
         |----------------------|----------------|-----------|------------------|------------------|-------|
         | **Laboratoire**      | 6 sept. 2024   | Vendredi  | 13h30 à 15h20    | Adrien-Pouliot   | 2708  |
@@ -76,39 +75,39 @@
 
 ---
 
-### 2ème Semestre -- Hiver 2026
+### 2nd Semester -- Winter 2026
 
 - **IFT-2003 - Intelligence artificielle I**
-    - **Session :** Hiver 2026
-    - **Dates :** 15 janvier 2026 - 26 avril 2026
-    - **Horaire :** Mardi MATIN, 9h30 - 12h20
+    - **Session:** Winter 2026
+    - **Dates:** January 15, 2026 - April 26, 2026
+    - **Time:** Tuesday MORNING, 9:30 a.m. - 12:20 p.m.
     - **Crédits :** 3
 
 - **IFT-3100 - Infographie**
-    - **Session :** Hiver 2026
-    - **Dates :** 15 janvier 2026 - 26 avril 2026
-    - **Horaire :** Jeudi MATIN, 12h30 - 13h50
+    - **Session:** Winter 2026
+    - **Dates:** January 15, 2026 - April 26, 2026
+    - **Time:** Thursday MORNING, 12:30 p.m. - 1:50 p.m.
     - **Crédits :** 3
 
 - **GLO-2001 - Systèmes d'exploitation**
-    - **Session :** Hiver 2026
-    - **Dates :** 15 janvier 2026 - 26 avril 2026
-    - **Horaire :** Jeudi SOIR, 18h30 - 21h20
-        - **TP :** Vendredi MATIN, 10h30 - 12h20 
+    - **Session:** Winter 2026
+    - **Dates:** January 15, 2026 - April 26, 2026
+    - **Schedule:** Thursday EVENING, 6:30 p.m. - 9:20 p.m.
+        - **TP:** Friday MORNING, 10:30 a.m. - 12:20 p.m.
     - **Crédits :** 3
 
-### 3ème Semestre -- Été 2026
+### 3rd Semester -- Summer 2026
 
 - **IFT-4021 - Programmation et mathématiques pour la science des données**
-    - **Session :** Été 2026
-    - **Dates :** 6 mai 2026 - 19 juin 2026
-    - **Horaire :** Mardi MATIN, 9h30 - 11h20
+- **Session:** Summer 2026
+    - **Dates:** May 6, 2026 - June 19, 2026
+    - **Time:** Tuesday MORNING, 9:30 a.m. - 11:20 a.m.
     - **Crédits :** 3
 
 - **GLO-4007 - Perception 3D pour véhicules autonomes**
-    - **Session :** Été 2026
-    - **Dates :** 6 mai 2026 - 21 juin 2026
-    - **Horaire :** Lundi MATIN (1) APRES-MIDI (6)
+    - **Session:** Summer 2026
+    - **Dates:** May 6, 2026 - June 21, 2026
+    - **Schedule:** Monday MORNING (1) AFTERNOON (6)
         | Type                           | Date          | Jour    | Horaire        | Pavillon         | Salle |
         |--------------------------------|---------------|---------|----------------|------------------|-------|
         | **Classe virtuelle synchrone** | 6 mai 2024    | Lundi   | 14h à 14h50    | -                | -     |
@@ -120,5 +119,5 @@
         | **Classe virtuelle synchrone** | 17 juin 2024  | Lundi   | 14h à 16h50    | -                | -     |
     - **Crédits :** 3
 
-**Total crédits** : `8*3 = 24`<br />
-*[back](./README.md)*
+**Total credits**: `8*3 = 24`<br />
+⬅️ *[ Back to Uni Ideas](./README.md)*

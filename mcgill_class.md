@@ -1,10 +1,9 @@
-*[back](./README.md)*
-# Cours TEK4 à l'Université McGill
+⬅️ *[ Back to Uni Ideas](./README.md)*# TEK4 course at McGill University
 
 **Objectif** : McGill SCS Certificate in Management  **VALIDATION**<br />
 **Year cost** : 4 200 €  
 
-## Track 2 : McGill SCS Certificate in Management
+## McGill SCS Certificate in Management
 [Certificate Details](https://www.mcgill.ca/continuingstudies/areas-study/scs-certificate-management)
 
 ⚠️ **Certificat must validate to validate the Tek4** ⚠️ 
@@ -18,4 +17,4 @@
 - Analyze marketing strategies and buyer behaviour
 
 ---
-*[back](./README.md)*
+⬅️ *[ Back to Uni Ideas](./README.md)*

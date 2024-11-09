@@ -1,7 +1,6 @@
-*[back](./README.md)*
-# Cours TEK4 à l'Université Modène (UNIMORE)
+⬅️ *[ Back to Uni Ideas](./README.md)*# TEK4 course at the University of Modena (UNIMORE)
 
-**Objectif** : 30ECTS / semestre, 60ECTS / an <br />
+**Objective**: 30 ECTS / semester, 60 ECTS / in <br />
 **Year cost** : 0 €  
 
 
@@ -33,4 +32,4 @@
 **Total credits** : `9*7 = 63 credits` 
 
 ---
-*[back](./README.md)*
+⬅️ *[ Back to Uni Ideas](./README.md)*
