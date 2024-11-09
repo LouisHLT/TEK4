@@ -1,4 +1,4 @@
-⬅️ *[ Back to Uni Ideas](./README.md)*
+⬅️ *[ Back to Uni Choices](./README.md)*
 
 # TEK4 course at Chung-Ang University
 
@@ -75,4 +75,4 @@
 
 ---
 
-⬅️ *[ Back to Uni Ideas](./README.md)*
+⬅️ *[ Back to Uni Choices](./README.md)*

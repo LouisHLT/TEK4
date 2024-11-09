@@ -1,4 +1,4 @@
-⬅️ *[ Back to Uni Ideas](./README.md)*
+⬅️ *[ Back to Uni Choices](./README.md)*
 
 # TEK4 course at Dublin City University
 
