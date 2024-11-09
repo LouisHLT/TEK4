@@ -1,4 +1,4 @@
-# University Ideas 
+# University Choices 
 
 ## List :
 1. [Laval](./laval_class.md) [🇨🇦](https://www.ulaval.ca/) *Condition : 2 GPA*
