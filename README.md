@@ -1,14 +1,14 @@
 # University Choices 
 
 ## List :
-1. [Laval](./laval_class.md) [🇨🇦](https://www.ulaval.ca/) `(Quebec)` *Condition : 2 GPA*
-2. [Uni;ore](./modene_class.md) [🇮🇹](https://www.unimore.it/) `(Modene)`
-3. [Chung-Ang University](./chungang_class.md) [🇰🇷](https://neweng.cau.ac.kr/engneweng/)` (Seoul)`
-4. [Hogeschool Zeeland University of Applied Sciences](./hoge_class.md) [🇳🇱](https://hz.nl/en) (Vlissingen)
-5. [Soongsil University](./soongsil_class.md) [🇰🇷](https://www.ssu.ac.kr/)` (Seoul)`
-6. [McGill](./mcgill_class.md) [🇨🇦](https://www.mcgill.ca/continuingstudies/areas-study/scs-certificate-management) `(Montreal)` *Condition : TOEFL iBT 90 (no lower than 21 on each section), IELTS 6.5 (no lower than 6 in each section), Duolingo 115* 
-7. [Dublin City University](./dublin_class.md) [🇮🇪](https://www.dcu.ie/) `(Dublin)`
-8. [Binus University](./binus_class.md) [🇮🇩](https://www.binus.ac.id/) `(Jakarta)` *Condition : 2.6 GPA*
+1. [Laval](./laval_class.md) [🇨🇦](https://www.ulaval.ca/) `Quebec` *Condition : 2 GPA*
+2. [Uni;ore](./modene_class.md) [🇮🇹](https://www.unimore.it/) `Modene`
+3. [Chung-Ang University](./chungang_class.md) [🇰🇷](https://neweng.cau.ac.kr/engneweng/) `Séoul`
+4. [Hogeschool Zeeland University of Applied Sciences](./hoge_class.md) [🇳🇱](https://hz.nl/en) `Vlissingen`
+5. [Soongsil University](./soongsil_class.md) [🇰🇷](https://www.ssu.ac.kr/) `Séoul`
+6. [McGill](./mcgill_class.md) [🇨🇦](https://www.mcgill.ca/continuingstudies/areas-study/scs-certificate-management) `Montréal` *Condition : TOEFL iBT 90 (no lower than 21 on each section), IELTS 6.5 (no lower than 6 in each section), Duolingo 115* 
+7. [Dublin City University](./dublin_class.md) [🇮🇪](https://www.dcu.ie/) `Dublin`
+8. [Binus University](./binus_class.md) [🇮🇩](https://www.binus.ac.id/) `Jakarta` *Condition : 2.6 GPA*
 
 ---
 
