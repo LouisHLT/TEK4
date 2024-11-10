@@ -1,8 +1,8 @@
 # University Choices 
 
 ## List :
-1. [Laval](./laval_class.md) [🇨🇦](https://www.ulaval.ca/) `Quebec` *Condition : 2 GPA*
-2. [Uni;ore](./modene_class.md) [🇮🇹](https://www.unimore.it/) `Modene`
+1. [Laval](./laval_class.md) [🇨🇦](https://www.ulaval.ca/) `Québec` *Condition : 2 GPA*
+2. [Unimore](./modene_class.md) [🇮🇹](https://www.unimore.it/) `Modène`
 3. [Chung-Ang University](./chungang_class.md) [🇰🇷](https://neweng.cau.ac.kr/engneweng/) `Séoul`
 4. [Hogeschool Zeeland University of Applied Sciences](./hoge_class.md) [🇳🇱](https://hz.nl/en) `Vlissingen`
 5. [Soongsil University](./soongsil_class.md) [🇰🇷](https://www.ssu.ac.kr/) `Séoul`
