@@ -31,4 +31,4 @@
 
 ---
 
-⬅️ *[ Back to Uni Ideas](./README.md)*
+⬅️ *[ Back to Uni Choices](./README.md)*
